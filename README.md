@@ -30,7 +30,7 @@ Ce projet est un projet Java standard (sans gestionnaire de dépendances comme M
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/VOTRE-NOM-UTILISATEUR/SmartParking.git
+   git clone https://github.com/Taha-Asrar/SmartParking.git
    ```
 
 2. **Ouvrir avec IntelliJ IDEA (recommandé) :**
@@ -49,7 +49,8 @@ Ce projet est un projet Java standard (sans gestionnaire de dépendances comme M
    - Exécutez la classe `Main` située dans `src/smartparking/Main.java`.
 
 ## 📸 Aperçu de l'application
-*(Vous pouvez ajouter une capture d'écran ici après l'avoir push sur GitHub en modifiant ce fichier et en ajoutant l'image dans le dossier)*
+<img width="1346" height="810" alt="app smartparking" src="https://github.com/user-attachments/assets/cde75673-ab1c-4d1d-943f-2c6929b49af3" />
+
 
 ---
-*Projet réalisé dans le cadre d'un module de Programmation Orientée Objet (POO) Avancée.*
+*Projet réalisé dans le cadre du module JAVA Avancée.*
